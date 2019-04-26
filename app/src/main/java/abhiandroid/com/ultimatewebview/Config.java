@@ -15,7 +15,7 @@ public class Config {
     public static String storeUrl="https://gkrgroup.co.th/services.htm";
     public static String serviceUrl="https://gkrgroup.co.th/ourteam.htm";
     public static String supportUrl="https://gkrgroup.co.th/contact.htm";
-    public static String contactUrl="http://abhidemo.com/websitetoapp/contact/";
+    public static String contactUrl="https://visitdrsant.blogspot.com";
 
 
 
