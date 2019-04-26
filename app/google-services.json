@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "499689229776",
+    "firebase_url": "https://ultimate-webview-7c406.firebaseio.com",
+    "project_id": "ultimate-webview-7c406",
+    "storage_bucket": "ultimate-webview-7c406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499689229776:android:1961c699f24c0838",
+        "android_client_info": {
+          "package_name": "abhiandroid.com.ultimatewebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499689229776-ulalnqlqlpv8ufl5it8hccgc6rfjlooh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQWqARp5HAwLo7bmeR8dGhLNSQjM69yA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
