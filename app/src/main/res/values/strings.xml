@@ -6,11 +6,11 @@
     <string name="interstitial">ca-app-pub-1834341646038975/8422553533</string>
     <string-array name="menuArray">
         <item>Home</item>
-        <item>Store</item>
         <item>Services</item>
-        <item>Support</item>
-        <item>About Us</item>
-        <item>Contact Us</item>
+        <item>Ourteam</item>
+        <item>Contact</item>
+        <item>Privacy</item>
+        <item>Ohters</item>
 
     </string-array>
 </resources>
