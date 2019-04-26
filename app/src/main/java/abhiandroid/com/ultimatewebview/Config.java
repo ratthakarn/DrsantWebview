@@ -11,10 +11,10 @@ public class Config {
  
     public static final String SHARED_PREF = "ah_firebase";
 
-    public static String homeUrl="http://abhidemo.com/websitetoapp/";
-    public static String storeUrl="http://abhidemo.com/websitetoapp/store/";
-    public static String serviceUrl="http://abhidemo.com/websitetoapp/services/";
-    public static String supportUrl="http://abhidemo.com/websitetoapp/support/";
+    public static String homeUrl="https://gkrgroup.co.th";
+    public static String storeUrl="https://gkrgroup.co.th/services.htm";
+    public static String serviceUrl="https://gkrgroup.co.th/ourteam.htm";
+    public static String supportUrl="https://gkrgroup.co.th/contact.htm";
     public static String contactUrl="http://abhidemo.com/websitetoapp/contact/";
 
 
