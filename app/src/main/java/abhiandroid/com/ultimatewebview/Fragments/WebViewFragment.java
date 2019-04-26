@@ -172,10 +172,10 @@ public class WebViewFragment extends Fragment {
                 shareIntent.putExtra(Intent.EXTRA_SUBJECT, "WebView App Demo");
 
                 //code to share webview link
-                // shareIntent.putExtra(Intent.EXTRA_TEXT, "Check this page: " + simpleWebView.getUrl());
+                 shareIntent.putExtra(Intent.EXTRA_TEXT, "Check this page: " + simpleWebView.getUrl());
 
                 //code to share playstore link
-                shareIntent.putExtra(Intent.EXTRA_TEXT, "Check this page: " + "https://play.google.com/store/apps/details?id=" + getActivity().getPackageName());//abhiandroid.com.ultimatewebview");
+                //shareIntent.putExtra(Intent.EXTRA_TEXT, "Check this page: " + "https://gkrgroup.co.th" + getActivity().getPackageName());//abhiandroid.com.ultimatewebview");
 
                 startActivity(Intent.createChooser(shareIntent, "Share Using"));
 
