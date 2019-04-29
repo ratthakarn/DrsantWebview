@@ -6,11 +6,11 @@
     <string name="interstitial">ca-app-pub-1834341646038975/8422553533</string>
     <string-array name="menuArray">
         <item>Home</item>
-        <item>Services</item>
-        <item>Ourteam</item>
-        <item>Contact</item>
+        <item>Youtube Channel</item>
+        <item>Wellness Wecare</item>
+        <item>Facebook</item>
         <item>Privacy Policy</item>
-        <item>Drsant Blog</item>
+        <item>Developer</item>
 
     </string-array>
 </resources>

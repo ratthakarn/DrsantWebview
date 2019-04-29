@@ -11,11 +11,11 @@ public class Config {
  
     public static final String SHARED_PREF = "ah_firebase";
 
-    public static String homeUrl="https://gkrgroup.co.th";
-    public static String storeUrl="https://gkrgroup.co.th/services.htm";
-    public static String serviceUrl="https://gkrgroup.co.th/ourteam.htm";
-    public static String supportUrl="https://gkrgroup.co.th/contact.htm";
-    public static String contactUrl="https://www.youtube.com/playlist?list=PLeb-fy9jWXiOmXxmMU9B9qA89mhIfvTW6";
+    public static String homeUrl="http://visitdrsant.blogspot.com";
+    public static String storeUrl="https://www.youtube.com/playlist?list=PLeb-fy9jWXiOmXxmMU9B9qA89mhIfvTW6";
+    public static String serviceUrl="https://www.wellnesswecare.com";
+    public static String supportUrl="https://www.facebook.com/นพ-สันต์-ใจยอดศิลป์-109891462446904/";
+    public static String contactUrl="https://gkrgroup.co.th/contact.htm";
 
 
 
