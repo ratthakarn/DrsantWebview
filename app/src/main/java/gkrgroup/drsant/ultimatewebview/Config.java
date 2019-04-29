@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview;
+package gkrgroup.drsant.ultimatewebview;
 
 public class Config {
  

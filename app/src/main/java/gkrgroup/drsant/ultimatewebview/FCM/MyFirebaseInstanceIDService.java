@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview.FCM;
+package gkrgroup.drsant.ultimatewebview.FCM;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -8,7 +8,7 @@ import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 
-import abhiandroid.com.ultimatewebview.Config;
+import gkrgroup.drsant.ultimatewebview.Config;
 
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
     private static final String TAG = MyFirebaseInstanceIDService.class.getSimpleName();

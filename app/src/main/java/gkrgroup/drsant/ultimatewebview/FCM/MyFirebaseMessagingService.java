@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview.FCM;
+package gkrgroup.drsant.ultimatewebview.FCM;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -6,16 +6,11 @@ import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.drawable.BitmapDrawable;
 import android.os.Build;
-import android.os.Bundle;
 import android.support.annotation.RequiresApi;
 import android.support.v4.app.NotificationCompat;
-import android.support.v4.content.LocalBroadcastManager;
-import android.text.TextUtils;
 import android.util.Log;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
@@ -24,16 +19,8 @@ import com.google.firebase.messaging.RemoteMessage;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.URL;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
-import abhiandroid.com.ultimatewebview.MainActivity;
-import abhiandroid.com.ultimatewebview.R;
-import abhiandroid.com.ultimatewebview.SplashScreen;
+import gkrgroup.drsant.ultimatewebview.R;
+import gkrgroup.drsant.ultimatewebview.SplashScreen;
 
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {

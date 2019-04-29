@@ -10,7 +10,7 @@
         android:layout_height="match_parent">
 
 
-            <abhiandroid.com.ultimatewebview.CustomWebview
+            <gkrgroup.drsant.ultimatewebview.CustomWebview
                 android:id="@+id/simpleWebView"
                 android:layout_width="match_parent"
                 android:focusableInTouchMode="true"

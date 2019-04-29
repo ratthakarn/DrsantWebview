@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview.Fragments;
+package gkrgroup.drsant.ultimatewebview.Fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import abhiandroid.com.ultimatewebview.MainActivity;
-import abhiandroid.com.ultimatewebview.R;
+import gkrgroup.drsant.ultimatewebview.MainActivity;
+import gkrgroup.drsant.ultimatewebview.R;
 
 public class AboutUs extends Fragment {
 

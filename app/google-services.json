@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "45446238797",
-    "firebase_url": "https://gkrgroup-dbe06.firebaseio.com",
-    "project_id": "gkrgroup-dbe06",
-    "storage_bucket": "gkrgroup-dbe06.appspot.com"
+    "project_number": "1032301591164",
+    "firebase_url": "https://drsant-245ed.firebaseio.com",
+    "project_id": "drsant-245ed",
+    "storage_bucket": "drsant-245ed.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:45446238797:android:1961c699f24c0838",
+        "mobilesdk_app_id": "1:1032301591164:android:b99b888f43dc6cb4",
         "android_client_info": {
-          "package_name": "abhiandroid.com.ultimatewebview"
+          "package_name": "gkrgroup.drsant.ultimatewebview"
         }
       },
       "oauth_client": [
         {
-          "client_id": "45446238797-doqp0qg6k1tcnvbr7skvjqk3gv09qtns.apps.googleusercontent.com",
+          "client_id": "1032301591164-dqo3ok3ek0l4a2argb1oo8oaeik3e5ei.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCkbAfEJ9aznKKPV7kd0sGD0j-KlzoD8Vk"
+          "current_key": "AIzaSyClAqWdV_VHgPCtrf7ZDFu9Hz_VZuJgtRM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "45446238797-doqp0qg6k1tcnvbr7skvjqk3gv09qtns.apps.googleusercontent.com",
+              "client_id": "1032301591164-dqo3ok3ek0l4a2argb1oo8oaeik3e5ei.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

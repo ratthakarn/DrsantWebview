@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview;
+package gkrgroup.drsant.ultimatewebview;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import abhiandroid.com.ultimatewebview.Fragments.AboutUs;
-import abhiandroid.com.ultimatewebview.Fragments.WebViewFragment;
+import gkrgroup.drsant.ultimatewebview.Fragments.AboutUs;
+import gkrgroup.drsant.ultimatewebview.Fragments.WebViewFragment;
 
 /**
  * Created by AbhiAndroid

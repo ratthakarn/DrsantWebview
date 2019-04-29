@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "abhiandroid.com.ultimatewebview"
+        applicationId "gkrgroup.drsant.ultimatewebview"
         minSdkVersion 18
         targetSdkVersion 27
         versionCode 1

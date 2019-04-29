@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview.Fragments;
+package gkrgroup.drsant.ultimatewebview.Fragments;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -30,11 +30,9 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.ViewTreeObserver;
 import android.view.WindowManager;
 import android.webkit.URLUtil;
 import android.webkit.ValueCallback;
-import android.webkit.WebBackForwardList;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceError;
 import android.webkit.WebResourceRequest;
@@ -56,10 +54,10 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import abhiandroid.com.ultimatewebview.DetectConnection;
-import abhiandroid.com.ultimatewebview.CustomWebview;
-import abhiandroid.com.ultimatewebview.MainActivity;
-import abhiandroid.com.ultimatewebview.R;
+import gkrgroup.drsant.ultimatewebview.DetectConnection;
+import gkrgroup.drsant.ultimatewebview.CustomWebview;
+import gkrgroup.drsant.ultimatewebview.MainActivity;
+import gkrgroup.drsant.ultimatewebview.R;
 
 
 public class WebViewFragment extends Fragment {
