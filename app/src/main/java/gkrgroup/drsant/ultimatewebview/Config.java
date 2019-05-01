@@ -12,10 +12,10 @@ public class Config {
     public static final String SHARED_PREF = "ah_firebase";
 
     public static String homeUrl="http://visitdrsant.blogspot.com";
-    public static String storeUrl="https://www.youtube.com/playlist?list=PLeb-fy9jWXiOmXxmMU9B9qA89mhIfvTW6";
-    public static String serviceUrl="https://www.wellnesswecare.com";
-    public static String supportUrl="https://www.facebook.com/นพ-สันต์-ใจยอดศิลป์-109891462446904/";
-    public static String contactUrl="https://gkrgroup.co.th/contact.htm";
+    public static String storeUrl="https://www.youtube.com/playlist?list=PLeb-fy9jWXiMChqravPU6JtZBSRxQ9-zV";
+    public static String serviceUrl="https://www.youtube.com/playlist?list=PLeb-fy9jWXiOWJnM8nZOsI21jEDzkkDBd";
+    public static String supportUrl="https://www.youtube.com/playlist?list=PLeb-fy9jWXiMYzibUQZ8vDm-OiWRapSOs";
+    public static String contactUrl="https://www.wellnesswecare.com";
 
 
 

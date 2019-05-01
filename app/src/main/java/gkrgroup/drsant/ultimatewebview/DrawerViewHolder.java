@@ -51,14 +51,15 @@ public class DrawerViewHolder extends RecyclerView.ViewHolder {
                         webViewFragment.setArguments(bundle);
                         ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
                         break;
-                    case 4:
-                        ((MainActivity) context).loadFragment(new AboutUs(), false);
-                        break;
 
-                    case 5:
+                    case 4:
                         bundle.putString("url", Config.contactUrl);
                         webViewFragment.setArguments(bundle);
                         ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
+                        break;
+
+                    case 5:
+                        ((MainActivity) context).loadFragment(new AboutUs(), false);
                         break;
 
 
