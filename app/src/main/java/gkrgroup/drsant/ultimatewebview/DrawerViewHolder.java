@@ -63,6 +63,7 @@ public class DrawerViewHolder extends RecyclerView.ViewHolder {
                         break;
 
 
+
                 }
                 MainActivity.customDrawerAdapter.notifyDataSetChanged();
                 MainActivity.drawerLayout.closeDrawers();
