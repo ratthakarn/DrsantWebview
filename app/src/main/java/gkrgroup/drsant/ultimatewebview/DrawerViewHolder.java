@@ -3,11 +3,13 @@ package gkrgroup.drsant.ultimatewebview;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import gkrgroup.drsant.ultimatewebview.Fragments.AboutUs;
+import gkrgroup.drsant.ultimatewebview.Fragments.TestUngFragment;
 import gkrgroup.drsant.ultimatewebview.Fragments.WebViewFragment;
 
 /**
@@ -61,7 +63,10 @@ public class DrawerViewHolder extends RecyclerView.ViewHolder {
                     case 5:
                         ((MainActivity) context).loadFragment(new AboutUs(), false);
                         break;
-
+                    case 6:
+                        Log.d("11MayV1", "You Click Test myMaster");
+                        ((MainActivity)context).loadFragment(new TestUngFragment(), false);
+                        break;
 
 
                 }

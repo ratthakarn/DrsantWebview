@@ -80,6 +80,7 @@
             android:textColor="#3F5B70"
             android:textSize="25sp" />
 
+        <!--เส้น-->
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
@@ -87,6 +88,7 @@
             android:layout_marginRight="3dp"
             android:background="#3F5B70" />
 
+        <!--เมนู-->
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recyclerview"
             android:layout_width="match_parent"

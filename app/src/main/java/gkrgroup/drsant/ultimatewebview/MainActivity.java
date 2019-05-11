@@ -43,7 +43,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ImageView menuHomeImage;
     public static DrawerLayout drawerLayout;
     public static List<String> menuTitles;
-    public static ArrayList<Integer> menuIcons = new ArrayList<>(Arrays.asList(R.drawable.home_icon, R.drawable.star_icon, R.drawable.service_icon, R.drawable.support_icon, R.drawable.about_icon, R.drawable.contact_icon));
+    public static ArrayList<Integer> menuIcons = new ArrayList<>(Arrays.asList(
+            R.drawable.home_icon,
+            R.drawable.star_icon,
+            R.drawable.service_icon,
+            R.drawable.support_icon,
+            R.drawable.about_icon,
+            R.drawable.contact_icon,
+            R.drawable.home_icon));
     public static CustomDrawerAdapter customDrawerAdapter;
     private AdView mAdView;
     public static ImageView menu, share;
